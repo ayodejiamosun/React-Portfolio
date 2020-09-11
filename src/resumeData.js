@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Ayodeji Amosun",
-    "role": "Fullstack Web Developer",
+    "name": "Howdy, I'm Ayodeji",
+    "role": "A Fullstack Web Developer passionate about using his diverse skill set to impact my community, locally and globally",
     // "linkedinId":"Your LinkedIn Id",
     "socialLinks":[
         {
@@ -13,6 +13,11 @@ let resumeData = {
           "name":"github",
           "url":"http://github.com/ayodejiamosun",
           "className":"fa fa-github"
+        },
+        {
+          "name":"email",
+          "url":"mailto:ayodeji.amosun04@gmail.com",
+          "className":"fa fa-envelope"
         },
       ],
     "aboutme":"Similar to my interests, the experience I have ranges on a variety of different fields. Driven by growth, curiosity, and community, I am always excited to jump into challenges that bring impactful opportunities, creative solutions, and great relationships. I have loved building upon key skills that I've learned from each unique opportunity, in order to be able to utilize a well-rounded skill set. I am excited to continue to learn ways to improve these skills and serve my community!",
