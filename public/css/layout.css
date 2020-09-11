@@ -188,7 +188,7 @@ ul#nav li.current a { color: #F06000; }
 
 #about {
    /* background: #D8D8D8; */
-   background: rgb(191, 212, 221);
+   background: rgb(199, 220, 230);
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -204,8 +204,8 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
-   /* color: black */
+   /* color: #7A7A7A; */
+   color: #1F262A
 }
 #about .profile-pic {
    position: relative;
@@ -239,7 +239,8 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   /* background: #fff; */
+   background: rgb(241, 241, 221);
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -297,6 +298,11 @@ ul#nav li.current a { color: #F06000; }
 .bars .skills {
   	margin-top: 36px;
    list-style: none;
+}
+.skills {
+   color: #313131;
+   font-size: 18px;
+   font-weight: bold;
 }
 .bars li {
    position: relative;
@@ -828,6 +834,9 @@ call-to-action .button {
 #contact p.lead {
    font: 18px/36px 'opensans-light', sans-serif;
    padding-right: 3%;
+   /* text-align: center; */
+   /* margin: 0 auto; */
+
 }
 #contact .header-col { padding-top: 6px; }
 

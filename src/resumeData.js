@@ -21,7 +21,8 @@ let resumeData = {
         },
       ],
     "aboutme":"Similar to my interests, the experience I have ranges on a variety of different fields. Driven by growth, curiosity, and community, I am always excited to jump into challenges that bring impactful opportunities, creative solutions, and great relationships. I have loved building upon key skills that I've learned from each unique opportunity, in order to be able to utilize a well-rounded skill set. I am excited to continue to learn ways to improve these skills and serve my community!",
-    "website":"https://ayodejiamosun.github.io/Responsive-Portfolio/",
+    "email":"ayodeji.amosun04@gmail.com",
+    "number": "(469) 463-2152",
     "education":[
       {
         "UniversityName":"UT Fullstack Bootcamp",
@@ -56,15 +57,26 @@ let resumeData = {
     // "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"HTML5, CSS, JavaScript, ReactJS, MySQL, Express, MongoDB"
       },
-      {
-        "skillname":"CSS"
-      },
-    
-      {
-        "skillname":"Reactjs"
-      }
+      // {
+      //   "skillname":"HTML5"
+      // },
+      // {
+      //   "skillname":"CSS"
+      // },
+      // {
+      //   "skillname":"Reactjs"
+      // },
+      // {
+      //   "skillname":"JavaScript"
+      // },
+      // {
+      //   "skillname":"MySQL"
+      // },
+      // {
+      //   "skillname":"Express"
+      // },
     ],
     "portfolio":[
       {
