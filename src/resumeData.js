@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Howdy, I'm Ayodeji",
-    "role": "A Fullstack Web Developer passionate about using his diverse skill set to impact my community, locally and globally",
+    "role": "A Fullstack Web Developer passionate about creating lasting impacts on my community, locally and globally!",
     // "linkedinId":"Your LinkedIn Id",
     "socialLinks":[
         {
@@ -20,7 +20,7 @@ let resumeData = {
           "className":"fa fa-envelope"
         },
       ],
-    "aboutme":"Similar to my interests, the experience I have ranges on a variety of different fields. Driven by growth, curiosity, and community, I am always excited to jump into challenges that bring impactful opportunities, creative solutions, and great relationships. I have loved building upon key skills that I've learned from each unique opportunity, in order to be able to utilize a well-rounded skill set. I am excited to continue to learn ways to improve these skills and serve my community!",
+    "aboutme":"Front-End Web Developer leveraging a background in psychology to build a more intuitive user experience on the web. Recently earned a certificate in Full Stack Development from the University of Texas, with newly developed skills in JavaScript, CSS, React.js, and responsive web design. Known as an innovative problem-solver passionate about developing apps to better serve my community. With each project, my aim is to best engage my audience for an impactful user-experience and produce interfaces that they can benefit from. Excited to utilize skills in the future as part of a fast-paced, quality-driven team in order to build better experiences on the web, locally and globally!",
     "email":"ayodeji.amosun04@gmail.com",
     "number": "(469) 463-2152",
     "education":[
