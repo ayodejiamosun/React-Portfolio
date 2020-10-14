@@ -22,11 +22,11 @@ let resumeData = {
       ],
     "aboutme":"Front-End Web Developer leveraging a background in psychology to build a more intuitive user experience on the web. Recently earned a certificate in Full Stack Development from the University of Texas, with newly developed skills in JavaScript, CSS, React.js, and responsive web design. Known as an innovative problem-solver passionate about developing apps to better serve my community. With each project, my aim is to best engage my audience for an impactful user-experience and produce interfaces that they can benefit from. Excited to utilize skills in the future as part of a fast-paced, quality-driven team in order to build better experiences on the web, locally and globally!",
     "email":"ayodeji.amosun04@gmail.com",
-    "number": "(469) 463-2152",
+    // "number": "(469) 463-2152",
     "education":[
       {
         "UniversityName":"UT Fullstack Bootcamp",
-        "specialization":"Frontend/Backend/Computer Science",
+        "specialization":"Full-Stack Web Development",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2020",
       },
@@ -57,7 +57,7 @@ let resumeData = {
     // "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5, CSS, JavaScript, ReactJS, MySQL, Express, MongoDB"
+        "skillname":"HTML5, CSS, Bootstrap, JavaScript, jQuery, NodeJS, AJAX, ReactJS, MySQL, Express, MongoDB"
       },
       // {
       //   "skillname":"HTML5"
