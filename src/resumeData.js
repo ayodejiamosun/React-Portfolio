@@ -95,7 +95,7 @@ let resumeData = {
         "name":"MovieMus",
         "description":"A web application that allows you to view soundtracks and related albums to your favorite movies, bridging the gap between movie and music search!",
         "imgurl":"https://picsum.photos/201/",
-        "url": "https://ayodejiamosun.github.io/Project-1/"
+        "url": "https://ayodejiamosun.github.io/MovieMus/"
       },
       // {
       //   "name":"Team Template Generator",
