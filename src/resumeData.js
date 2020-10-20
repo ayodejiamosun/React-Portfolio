@@ -80,10 +80,16 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"Password Generator",
-        "description":"Generates random passwords based on user inputs.",
+        "name":"Nature Rx",
+        "description":"•	A web application that helps the user keep track of ailments over time and offer natural treatments for said ailments in order to prevent more exposure to COVID-19 by going to a doctor’s office.",
         "imgurl":"https://picsum.photos/200/",
-        "url":"https://www.google.com/"
+        "url":"https://still-taiga-72064.herokuapp.com/ "
+      },
+      {
+        "name":"My Virtual Library",
+        "description":"A web application that allows users to create an account and search for books via Goodreads. Considering the fact that readers may not own a physical copy of every book read, My Virtual Library creates a place virtually to store digital representations of books read and plan to read.",
+        "imgurl":"https://picsum.photos/203/",
+        "url": "https://calm-shelf-58513.herokuapp.com/"
       },
       {
         "name":"MovieMus",
@@ -91,18 +97,13 @@ let resumeData = {
         "imgurl":"https://picsum.photos/201/",
         "url": "https://ayodejiamosun.github.io/Project-1/"
       },
-      {
-        "name":"Team Template Generator",
-        "description":"This application is a software engineering team generator command line application. The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.",  
-        "imgurl":"https://picsum.photos/202/",
-        "url": "https://github.com/ayodejiamosun/Team-Template-Generator"
-      },
-      {
-        "name":"My Virtual Library",
-        "description":"A web application that allows the user to create an account and search for books via GoodReads. The user would then be able to choose to add the book to either their Queue of 'To Read' Books or a Library of 'Read' books. The user would also be able to update books in Queue to their Library once they have completed the book.",
-        "imgurl":"https://picsum.photos/203/",
-        "url": "https://calm-shelf-58513.herokuapp.com/"
-      }
+      // {
+      //   "name":"Team Template Generator",
+      //   "description":"This application is a software engineering team generator command line application. The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.",  
+      //   "imgurl":"https://picsum.photos/202/",
+      //   "url": "https://github.com/ayodejiamosun/Team-Template-Generator"
+      // },
+      
     ],
     // "testimonials":[
     //   {
